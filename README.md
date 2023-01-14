@@ -19,7 +19,7 @@ The data is analyzed using SQL:
 
 ## Results
 
-The results of the analysis are presented in the form of a Tableau Dashboard. Some of the key findings include:
+The results of the analysis are presented in the form of a [Tableau Dashboard](https://public.tableau.com/app/profile/albin.prebreza). Some of the key findings include:
 - The overall trend of confirmed cases and deaths
 - Comparison of the situation in different countries
 - Analysis of the impact of measures such as lockdowns and testing on the spread of the virus
